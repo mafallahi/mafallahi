@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/mafallahi/mafallahi/refs/heads/main/mygif.gif" />
 
-- 👋 Hi, I’m Mohammad Ali Fallahi and i from iran💀. 
+- 👋 Hi, I’m Mohammad Ali Fallahi. 
 - 👀 I love to making music for fun. 
 
 -  ☠️ I'm currently learning C/C++ and C# ☠️
